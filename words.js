@@ -1,1 +1,0 @@
-import {pick,filterByDifficulty} from '../core/utils.js';export function createWordRound(words,difficulty='easy'){const pool=filterByDifficulty(words,difficulty);const current=pick(pool);return{current,prompt:'Lies das Wort und tippe das Romaji.'}}
