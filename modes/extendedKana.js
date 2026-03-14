@@ -1,0 +1,1 @@
+import {shuffle,pick} from '../core/utils.js';export function createExtendedRound(items){const current=pick(items);const wrong=shuffle(items.filter(i=>i.romaji!==current.romaji)).slice(0,3).map(i=>i.romaji);return{current,options:shuffle([current.romaji,...wrong]),prompt:'Welches Romaji passt zu diesem erweiterten Kana?'}}
