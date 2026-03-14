@@ -1,1 +1,0 @@
-export function useFullAlphabet(items){return items}
