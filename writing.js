@@ -1,1 +1,0 @@
-import {pick,filterByDifficulty} from '../core/utils.js';export function createWritingRound(items,difficulty='easy',direction='kana-to-romaji'){const pool=filterByDifficulty(items,difficulty);const current=pick(pool);return{current,direction,prompt:direction==='kana-to-romaji'?'Tippe das passende Romaji.':'Tippe das passende Kana.'}}
