@@ -1,0 +1,1 @@
+export const confusionKatakana=[{name:'シ / ツ',items:[{char:'シ',romaji:'shi'},{char:'ツ',romaji:'tsu'}]},{name:'ソ / ン',items:[{char:'ソ',romaji:'so'},{char:'ン',romaji:'n'}]},{name:'ク / ケ',items:[{char:'ク',romaji:'ku'},{char:'ケ',romaji:'ke'}]},{name:'フ / ワ',items:[{char:'フ',romaji:'fu'},{char:'ワ',romaji:'wa'}]}];

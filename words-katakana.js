@@ -1,0 +1,1 @@
+export const wordsKatakana=[{word:'ゲーム',romaji:'geemu',difficulty:'easy'},{word:'ネコ',romaji:'neko',difficulty:'easy'},{word:'パン',romaji:'pan',difficulty:'easy'},{word:'コーヒー',romaji:'koohii',difficulty:'medium'},{word:'テレビ',romaji:'terebi',difficulty:'medium'},{word:'アイス',romaji:'aisu',difficulty:'easy'}];
