@@ -1,1 +1,0 @@
-export const confusionHiragana=[{name:'ぬ / め',items:[{char:'ぬ',romaji:'nu'},{char:'め',romaji:'me'}]},{name:'れ / わ',items:[{char:'れ',romaji:'re'},{char:'わ',romaji:'wa'}]},{name:'あ / お',items:[{char:'あ',romaji:'a'},{char:'お',romaji:'o'}]},{name:'き / さ',items:[{char:'き',romaji:'ki'},{char:'さ',romaji:'sa'}]},{name:'ち / さ',items:[{char:'ち',romaji:'chi'},{char:'さ',romaji:'sa'}]}];
