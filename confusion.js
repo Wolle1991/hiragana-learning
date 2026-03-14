@@ -1,1 +1,0 @@
-import {pick,shuffle} from '../core/utils.js';export function createConfusionRound(groups){const group=pick(groups);const current=pick(group.items);return{group,current,options:shuffle(group.items.map(i=>i.char)),prompt:`Verwechslungsgruppe: ${group.name}`}}
